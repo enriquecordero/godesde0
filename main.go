@@ -1,15 +1,17 @@
 package main
 
 import (
-	"fmt"
-	"runtime"
 
-	"github.com/enriquecordero/godesde0/variable"
-	"github.com/enriquecordero/godesde0/ejercicios"
+	//"runtime"
 
+	//"github.com/enriquecordero/godesde0/variable"
+	//"github.com/enriquecordero/godesde0/ejercicios"
+	//"github.com/enriquecordero/godesde0/teclado"
+	//"github.com/enriquecordero/godesde0/iteraciones"
 )
 
 func main() {
+/*
 	// Enteros
 	variable.MostrarEnteros()
 	// Resto
@@ -45,6 +47,17 @@ func main() {
 
  fmt.Println("valor: ", valor)
  fmt.Println("descripcion : ", descripcion)
+
+
+teclado.IngresoNumeros()
+
+
+iteraciones.Interar()
+
+
+ejercicios.Ejercicio2()
+
+*/
 
 
 }
