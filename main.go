@@ -1,8 +1,16 @@
 package main
 
-import "github.com/enriquecordero/godesde0/variable"
+import (
+	"fmt"
+
+	"github.com/enriquecordero/godesde0/variable"
+)
 
 func main() {
-  variable.MostrarEnteros()
+	// Enteros 
+	variable.MostrarEnteros()
+	// Resto	
+	fmt.Println("****************************************************************")
+	variable.RestoVariables()
 }
 
