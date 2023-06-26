@@ -8,6 +8,9 @@ import (
 	//"github.com/enriquecordero/godesde0/ejercicios"
 	//"github.com/enriquecordero/godesde0/teclado"
 	//"github.com/enriquecordero/godesde0/iteraciones"
+//		"github.com/enriquecordero/godesde0/funciones"
+	"github.com/enriquecordero/godesde0/arreglo_slices"
+
 )
 
 func main() {
@@ -57,7 +60,14 @@ iteraciones.Interar()
 
 ejercicios.Ejercicio2()
 
+
+funciones.Calculos()
+
+
+funciones.Exponencia(2)
 */
 
-
+//arregloslices.MuestraArreglos()
+//arregloslices.MuestroSlice()
+arregloslices.Capacidad()
 }
